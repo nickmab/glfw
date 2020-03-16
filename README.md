@@ -1,3 +1,9 @@
+# Fork of GLFW
+
+I have forked this repo from the original for my own use.
+Simply intending to add a premake.lua file and not modify any of the actual source code, but can't guarantee it will be that way forever! 
+See license.
+
 # GLFW
 
 [![Build status](https://travis-ci.org/glfw/glfw.svg?branch=master)](https://travis-ci.org/glfw/glfw)
